@@ -2,7 +2,7 @@
 # Hello 👋, I'm Robert! 
 I'm a software developer from Nashville, TN. 
 Thank you for taking the time to look at my work! 
-Please feel free to take a look at my LinkedIn [![Linkedin Badge](https://img.shields.io/badge/-Robert -blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robert-stroud-dev//)](https://www.linkedin.com/in/robert-stroud-dev//)  if you like as well.
+Please feel free to take a look at my LinkedIn [![Linkedin Badge](https://img.shields.io/badge/-Robert-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robert-stroud-dev//)](https://www.linkedin.com/in/robert-stroud-dev//)  if you like as well.
 
 
 ## About Me:
