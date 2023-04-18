@@ -1,8 +1,8 @@
-<img src="https://komarev.com/ghpvc/?username=r-stroud&label=Profile%20views&color=0e75b6&style=flat" alt="Robert Stroud" />
 
-# Hello 👋, I'm Robert! I'm a software developer from Nashville, TN. Thank you for taking the time to look at my work! Please feel free to take a look at my LinkedIn if you like as well.
-
-[![Linkedin Badge](https://img.shields.io/badge/-Robert-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robert-stroud-dev//)](https://www.linkedin.com/in/robert-stroud-dev//)
+# Hello 👋, I'm Robert! 
+I'm a software developer from Nashville, TN. 
+Thank you for taking the time to look at my work! 
+Please feel free to take a look at my LinkedIn if you like as well.[![Linkedin Badge](https://img.shields.io/badge/-Robert-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robert-stroud-dev//)](https://www.linkedin.com/in/robert-stroud-dev//)
 
 
 
