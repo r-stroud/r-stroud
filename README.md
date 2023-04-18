@@ -27,10 +27,9 @@ Please feel free to take a look at my LinkedIn [![Linkedin Badge](https://img.sh
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="30px" height="30px"></a>
 <a href="https://tailwindcss.com/" title="Tailwind"><img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind" width="30px" height="30px"></a>
 <a href="https://flowbite.com/" title="Flowbite"><img src="https://flowbite.com/images/logo.svg" alt="Flowbite" width="30px" height="30px"></a>
-<a href="https://maps.google.com/" title="Google Maps"><img src="https://github.com/get-icon/geticon/blob/master/icons/google-maps.svg" alt="Google Maps" width="30px" height="30px"></a>
 <a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="30px" height="30px"></a>
-<a href="https://www.firebase.com/" title="Firebase"><img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" width="30px" height="30px"></a>
-<a href="https://react-query-v3.tanstack.com/" title="React Query"><img src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" alt="React Query" width="30px" height="30px"></a>
+
+
 
 [![Robert's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=r-stroud)](https://github.com/anuraghazra/github-readme-stats)
 
