@@ -32,6 +32,6 @@ Please feel free to take a look at my LinkedIn [![Linkedin Badge](https://img.sh
 <a href="https://www.firebase.com/" title="Firebase"><img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" width="30px" height="30px"></a>
 <a href="https://react-query-v3.tanstack.com/" title="React Query"><img src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" alt="React Query" width="30px" height="30px"></a>
 
-[![Robert's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=r-striyd)](https://github.com/anuraghazra/github-readme-stats)
+[![Robert's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=r-stroud)](https://github.com/anuraghazra/github-readme-stats)
 
 **⭐️ From [Robert Stroud](https://github.com/r-stroud)**
