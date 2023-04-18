@@ -18,7 +18,7 @@ Please feel free to take a look at my LinkedIn  [![Linkedin Badge](https://img.s
 
 ## Stats
 
-[![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-stroud&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-stroud&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages & Technologies
 
